@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Asus
+Build-Jdk: 9.0.4
+Implementation-Title: PAF
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.PafProject
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PAF
+Created-By: Maven Integration for Eclipse
+

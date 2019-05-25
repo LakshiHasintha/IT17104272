@@ -1,0 +1,10 @@
+com\PafProject\service\UserServiceImpl.class
+com\PafProject\repository\RoleRepository.class
+com\PafProject\service\UserService.class
+com\PafProject\configuration\SecurityConfiguration.class
+com\PafProject\model\Role.class
+com\PafProject\configuration\WebMvcConfig.class
+com\PafProject\PafApplication.class
+com\PafProject\controller\UserController.class
+com\PafProject\model\User.class
+com\PafProject\repository\UserRepository.class
